@@ -4,7 +4,7 @@
 This repository contains an R script designed to analyze the Ames Housing dataset. The dataset includes various attributes of houses in Ames, Iowa, and the analysis provides insights into housing prices and the factors affecting them.
 
 ## Files
-- `Ames_Housing_Analysis.R`: The R script file for the analysis.
+- `Ames_housing_purchase_prediction.R`: The R script file for the analysis.
 - `Ames_Housing_Data.csv`: The dataset used for the analysis.
 
 ## Description
@@ -18,7 +18,7 @@ The Ames Housing Price Analysis script includes the following steps:
 ## Usage
 To run the analysis:
 1. Ensure you have R and RStudio installed on your machine.
-2. Download the `Ames_Housing_Analysis.R` file and the `Ames_Housing_Data.csv` file.
+2. Download the `Ames_housing_purchase_prediction.R` file and the `Ames_Housing_Data.csv` file.
 3. Open the `Ames_Housing_Analysis.R` file in RStudio.
 4. Set the working directory to the location of the downloaded files.
 5. Run the script to execute the analysis.
